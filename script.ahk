@@ -7,3 +7,6 @@ return
 suspend 
 return
 
+m::
+sendinput hola mundo
+return
